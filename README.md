@@ -3,8 +3,10 @@ This data analysis project analyzes the results of a market survey carried out t
 
 ## Dashboard
 
-![Ticket Volume Dashboard](https://github.com/Jucodez/Servitium-Ticket-Volume-Dashboard/blob/main/Ticket%20Volume%20Dashboard.png)
-
+![Demographics](https://github.com/Jucodez/UBA-Market-Analysis/blob/main/Dashboard%20Pictures/Respondent%20Demographics.png)
+![Savings and Loans](https://github.com/Jucodez/UBA-Market-Analysis/blob/main/Dashboard%20Pictures/Savings%20and%20Loans.png)
+![Product feedback](https://github.com/Jucodez/UBA-Market-Analysis/blob/main/Dashboard%20Pictures/Product%20Feedback.png)
+![Product feedback 2](https://github.com/Jucodez/UBA-Market-Analysis/blob/main/Dashboard%20Pictures/Product%20Feedback%202.png)
 
 
 
